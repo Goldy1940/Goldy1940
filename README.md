@@ -1,5 +1,5 @@
 Hello , I am Pushyamitra.
-I am new to coding but I will leran coding int no time .
+I am new to coding but I will leran coding in no time .
 That's all I have to say
 
 <!---
