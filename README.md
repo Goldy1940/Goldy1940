@@ -2,7 +2,7 @@ Hello , I am Pushyamitra.
 </p>I am new to coding but I will learn coding in no time .</br>
 That's all I have to say.
 </p>
-English is not my first langage.
+English is not my first langage.</br>
 
 <!---
 Goldy1940/Goldy1940 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
