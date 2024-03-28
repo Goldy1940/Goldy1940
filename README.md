@@ -1,5 +1,5 @@
 Hello , I am noobCoder.
-</p>I am new to coding but I will learn coding in no time .</br>
+</p>I am new to coding but I will master it in no time .</br>
 That's all I have to say.
 </p>
 English is not my first language.</br>
